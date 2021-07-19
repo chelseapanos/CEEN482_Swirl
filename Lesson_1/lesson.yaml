@@ -1,20 +1,13 @@
 - Class: meta
-  Course: Google Forms Course
+  Course: CEEN482 Swirl
   Lesson: Lesson 1
-  Author: Sean Kross
+  Author: Chelsea Panos
   Type: Standard
   Organization: The Johns Hopkins Data Science Lab
   Version: 2.4.1
   
 - Class: text
-  Output: This short lesson is an example of how students can submit their
-    swirl lesson progress using Google Forms.
-
-- Class: cmd_question
-  Output: Enter 2 + 2.
-  CorrectAnswer: 2 + 2
-  AnswerTests: omnitest(correctExpr='2 + 2')
-  Hint: Just enter 2 + 2.
+  Output: Submit your Swirl lesson progress via Google Forms.
 
 - Class: mult_question
   Output: Would you like to submit the log of this lesson to Google Forms so
